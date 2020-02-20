@@ -1,5 +1,9 @@
 # Deface: Video anonymization by face detection
 
+**Note: This repository has moved to https://github.com/ORB-HD/deface.
+The copy you are viewing right now will no longer be updated and will be removed in the future.**
+
+
 ## Installation
 
 From PyPI (official releases):
